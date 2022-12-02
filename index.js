@@ -21,9 +21,9 @@ Do the following:
 */
 const votingAge = 18
 if (votingAge >= 18) {
-  console.log('true')
+  console.log('true');
 } else {
-  console.log('false')
+  console.log('false');
 }
 
 /*
@@ -37,8 +37,13 @@ Do the following:
 
    HINT: no function required
 */
-
-
+var firstThing = false
+var secondThing = true
+if (true) {
+  console.log(firstThing);
+} else {
+  console.log(secondThing)
+}
 
 
 
